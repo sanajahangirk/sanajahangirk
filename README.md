@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [sana jahangir]
 
 **Biomedical Engineer | Data Scientist | Bridging Clinical Insights with Machine Learning**
 
